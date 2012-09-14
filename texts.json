@@ -1,0 +1,9 @@
+{ "text" : "chad.pry@gmail.com", "name" : "", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "Chad <chad.pry@gmail.com>", "name" : "Chad", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" <chad.pry@gmail.com>", "name" : "Chad Pry", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" [mailto:chad.pry@gmail.com]", "name" : "Chad Pry", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" <chad.pry+instructor@gmail.com>", "name" : "Chad Pry", "local" : "chad.pry+instructor", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry (Instructor)\" <chad.pry@gmail.com>", "name" : "Chad Pry (Instructor)", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" <c@gmail.com>", "name" : "Chad Pry", "local" : "c", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" <chad.pRY@gmail.com>", "name" : "Chad Pry", "local" : "chad.pry", "domain" : "gmail.com" }
+{ "text" : "\"Chad Pry\" <chad.pry@gMAIL.com>", "name" : "Chad Pry", "local" : "chad.pry", "domain" : "gmail.com" }
